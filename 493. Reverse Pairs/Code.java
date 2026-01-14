@@ -1,0 +1,21 @@
+class Solution {
+    public int mergesort(int[] nums, int l, int r){
+        if(l>=r) return 0;
+        int m=l+(r-l)/2;
+        int res=mergesort(nums,l,m)+mergesort(nums,m+1,r);
+        int i=l,j=m+1,k=0,p=m+1;
+        int merge[]=new int[r-l+1];
+        while(i<=m){
+            while(p<=r && nums[i]>2L*nums[p]) p++;
+            res+=p-(m+1);
+            while(j<=r && nums[i]>nums[j]) merge[k++]=nums[j++];
+            merge[k++]=nums[i++];
+        }
+        while(j<=r) merge[k++]=nums[j++];
+        System.arraycopy(merge,0,nums,l,merge.length);
+        return res;
+    }
+    public int reversePairs(int[] nums) {
+        return mergesort(nums,0,nums.length-1);
+    }
+}
