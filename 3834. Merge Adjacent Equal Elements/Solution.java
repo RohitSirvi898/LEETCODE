@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public List<Long> mergeAdjacent(int[] nums) {
         int n=nums.length;
         List<Long> ans = new ArrayList<>();
@@ -20,6 +20,4 @@ public class Solution {
         }
         return ans;
     }
-} {
-    
 }
