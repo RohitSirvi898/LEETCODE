@@ -4,7 +4,6 @@ class Solution {
         int count = 0;
         int load = 0;
         for(int i=0;i<weights.length;i++){
-            if(weights[i]>m) return false;
             if(load+weights[i]>m) {
                 load = 0;
                 count++;
@@ -19,7 +18,7 @@ class Solution {
         int low = weights[0];
         int high = 0;
         for(int i=0;i<n;i++){
-            low = Math.min(low,weights[i]);
+            low = Math.max(low,weights[i]);
             high += weights[i];
         }
 
