@@ -47,15 +47,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RohitSirvi898/LEETCODE/tree/master/0062-unique-paths) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RohitSirvi898/LEETCODE/tree/master/0062-unique-paths) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RohitSirvi898/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
