@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RohitSirvi898/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/RohitSirvi898/LEETCODE/tree/master/0120-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/RohitSirvi898/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RohitSirvi898/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/RohitSirvi898/LEETCODE/tree/master/0120-triangle) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
