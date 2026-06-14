@@ -1,37 +1,62 @@
 class Solution {
+    
     public int getLength(int[] nums) {
-        int len = 0;
         int n = nums.length;
-        
-        Map<Integer, Integer> a = new HashMap<>();
-        TreeMap<Integer, Integer> b = new TreeMap<>();
-        
-        int[] dremovical = nums;
+        int ans = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        int u = 0;
+        int[] cNums = new int[n];
+        for (int i = 0; i < n; i++) {
+            if (!map.containsKey(nums[i])) {
+                map.put(nums[i], u++);
+            }
+            cNums[i] = map.get(nums[i]);
+        }
+        int[] dremovical = nums; 
         
         for (int i = 0; i < n; i++) {
-            a.clear();
-            b.clear();
+            int[] freq = new int[u];            
+            int[] freqCount = new int[n + 1];   
+            int maxFreq = 0;
+            int distinctCount = 0;
             
             for (int j = i; j < n; j++) {
-                if (a.containsKey(nums[j])) {
-                    int currentFreq = a.get(nums[j]);
-                    b.put(currentFreq, b.get(currentFreq) - 1);
-                    if (b.get(currentFreq) == 0) {
-                        b.remove(currentFreq);
+                int x = cNums[j];
+                int oldF = freq[x];
+                
+                if (oldF == 0) {
+                    distinctCount++;
+                } else {
+                    freqCount[oldF]--;
+                }
+                
+                int newF = oldF + 1;
+                freq[x] = newF;
+                freqCount[newF]++;
+                
+                if (newF > maxFreq) {
+                    maxFreq = newF;
+                }
+                
+                boolean isValid = false;
+                
+                if (distinctCount == 1) {
+                    isValid = true;
+                } 
+                else if (maxFreq % 2 == 0) {
+                    int half = maxFreq / 2;
+                    if (freqCount[maxFreq] > 0 && freqCount[half] > 0 && 
+                        (freqCount[maxFreq] + freqCount[half] == distinctCount)) {
+                        isValid = true;
                     }
                 }
                 
-                a.put(nums[j], a.getOrDefault(nums[j], 0) + 1);
-                
-                int newFreq = a.get(nums[j]);
-                b.put(newFreq, b.getOrDefault(newFreq, 0) + 1);
-                
-                if ((b.size() == 2 && b.firstKey() * 2 == b.lastKey()) || (b.size() == 1 && a.size() == 1)) {
-                    len = Math.max(len, j - i + 1);
+                if (isValid) {
+                    ans = Math.max(ans, j - i + 1);
                 }
             }
         }
         
-        return len;
+        return ans;
     }
 }
