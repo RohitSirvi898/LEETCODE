@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RohitSirvi898/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0015-3sum) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitSirvi898/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0015-3sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
