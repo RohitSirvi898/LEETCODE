@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/RohitSirvi898/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RohitSirvi898/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RohitSirvi898/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RohitSirvi898/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RohitSirvi898/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitSirvi898/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
