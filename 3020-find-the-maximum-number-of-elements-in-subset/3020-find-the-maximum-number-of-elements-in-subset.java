@@ -5,27 +5,19 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
+        if(map.containsKey(1)){
+            int len = map.get(1);
+            ans = (len%2==0)?len-1:len;
+            map.remove(1);
+        }
         for(int i=0;i<nums.length;i++){
             int x = nums[i];
-            if(nums[i]==1){
-                int len = map.get(1);
-                ans = Math.max(ans,(len%2==0)?len-1:len);
+            int len = 0;
+            while(map.containsKey(x) && map.get(x)>1){
+                len+=2;
+                x*=x;
             }
-            else{
-                int len = 0;
-                while(map.containsKey(x)){
-                    if(map.get(x)==1){
-                        len+=1;
-                        break;
-                    }
-                    else if(map.get(x)>1){
-                        len+=2;
-                        x*=x;
-                    }
-                    else break;
-                }
-                ans = Math.max(ans,(len%2==0)?len-1:len);
-            }
+            ans = Math.max(ans,len+(map.containsKey(x)?1:-1));
         }
         return ans;
     }
