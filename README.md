@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RohitSirvi898/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/RohitSirvi898/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RohitSirvi898/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RohitSirvi898/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
