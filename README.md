@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RohitSirvi898/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/RohitSirvi898/LEETCODE/tree/master/0125-valid-palindrome) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitSirvi898/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitSirvi898/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/RohitSirvi898/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0856-score-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RohitSirvi898/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
