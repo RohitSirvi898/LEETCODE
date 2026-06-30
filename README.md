@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/RohitSirvi898/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/RohitSirvi898/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RohitSirvi898/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitSirvi898/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/RohitSirvi898/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/RohitSirvi898/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
