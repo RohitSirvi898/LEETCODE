@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RohitSirvi898/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RohitSirvi898/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohitSirvi898/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -308,4 +313,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
