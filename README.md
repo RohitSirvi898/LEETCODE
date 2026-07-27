@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/RohitSirvi898/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/RohitSirvi898/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitSirvi898/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitSirvi898/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/RohitSirvi898/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/RohitSirvi898/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0047-permutations-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/RohitSirvi898/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RohitSirvi898/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
