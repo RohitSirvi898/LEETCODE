@@ -334,4 +334,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RohitSirvi898/LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RohitSirvi898/LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RohitSirvi898/LEETCODE/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
