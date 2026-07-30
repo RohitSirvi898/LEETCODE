@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/RohitSirvi898/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RohitSirvi898/LEETCODE/tree/master/0062-unique-paths) |
+| [0171-excel-sheet-column-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/RohitSirvi898/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RohitSirvi898/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/RohitSirvi898/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0856-score-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitSirvi898/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
