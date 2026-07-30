@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RohitSirvi898/LEETCODE/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 ## Merge Sort
 |  |
 | ------- |
