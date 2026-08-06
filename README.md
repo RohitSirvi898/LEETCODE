@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/RohitSirvi898/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
