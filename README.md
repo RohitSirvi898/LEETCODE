@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0042-trapping-rain-water) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitSirvi898/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0086-partition-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/RohitSirvi898/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RohitSirvi898/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
