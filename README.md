@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0707-design-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1406-stone-game-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
