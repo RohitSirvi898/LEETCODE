@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/RohitSirvi898/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitSirvi898/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitSirvi898/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RohitSirvi898/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/RohitSirvi898/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitSirvi898/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
