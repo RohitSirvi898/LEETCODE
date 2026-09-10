@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/RohitSirvi898/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RohitSirvi898/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitSirvi898/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RohitSirvi898/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -328,12 +330,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitSirvi898/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/RohitSirvi898/LEETCODE/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
