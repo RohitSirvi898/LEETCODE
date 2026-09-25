@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RohitSirvi898/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/RohitSirvi898/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RohitSirvi898/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitSirvi898/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RohitSirvi898/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitSirvi898/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1472-design-browser-history](https://github.com/RohitSirvi898/LEETCODE/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RohitSirvi898/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RohitSirvi898/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/RohitSirvi898/LEETCODE/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Counting Sort
 |  |
 | ------- |
