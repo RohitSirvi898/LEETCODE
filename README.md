@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/RohitSirvi898/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/RohitSirvi898/LEETCODE/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/RohitSirvi898/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RohitSirvi898/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RohitSirvi898/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
@@ -479,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RohitSirvi898/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RohitSirvi898/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
