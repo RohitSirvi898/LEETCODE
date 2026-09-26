@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/RohitSirvi898/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RohitSirvi898/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RohitSirvi898/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/RohitSirvi898/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RohitSirvi898/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RohitSirvi898/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/RohitSirvi898/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/RohitSirvi898/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/RohitSirvi898/LEETCODE/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
