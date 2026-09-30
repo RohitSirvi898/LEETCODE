@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/RohitSirvi898/LEETCODE/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/RohitSirvi898/LEETCODE/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RohitSirvi898/LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Bracket Sequences
 |  |
