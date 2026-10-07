@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1791-find-center-of-star-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RohitSirvi898/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
