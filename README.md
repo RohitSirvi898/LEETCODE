@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RohitSirvi898/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/RohitSirvi898/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RohitSirvi898/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -580,4 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
