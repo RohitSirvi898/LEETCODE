@@ -1,36 +1,39 @@
 class Solution {
-
-    
     public int[] findRedundantConnection(int[][] edges) {
-        int n = edges.length;
-        HashMap<Integer,ArrayList<Integer>> map = new HashMap<>();
-        for(int i=1;i<=n;i++){
-            map.put(i,new ArrayList<>());
+        int[] parent=new int[edges.length+1];
+        for(int i=0;i<parent.length;i++)
+        {
+            parent[i]=i;
         }
-        int ans[] = new int[2];
-        for(int[] i : edges){
-            int a = i[0];
-            int b = i[1];
-            boolean vis[] = new boolean[n+1];
-            solve(edges,a,-1,vis,map,ans);
-            if(vis[b]) return i;
-            map.get(a).add(b);
-            map.get(b).add(a);
+        for(int i=0;i<edges.length;i++)
+        {
+            if(union(edges[i][0],edges[i][1],parent))
+            {
+                return new int[]{edges[i][0],edges[i][1]};
+            }
         }
-        return ans;
+        return new int[]{0,0};
     }
 
-    public boolean solve(int[][] edges, int v, int u, boolean[] vis,HashMap<Integer,ArrayList<Integer>> map, int[] ans){
-        vis[v] = true;
-        for(int i:map.get(v)){
-            if(i==u) continue;
-            if(vis[i] || i==u){
-                ans[0] = u;
-                ans[1] = v;
-                return true;
-            }
-            if(solve(edges,i,v,vis,map,ans)) return true;
+    boolean union(int u,int v,int[] parent)
+    {
+        int p1=find(u,parent);
+        int p2=find(v,parent);
+
+        if(p1==p2)
+        {
+            return true;
         }
+        parent[p2]=p1;
         return false;
+    }
+
+    int find(int u,int[] parent)
+    {
+        if(parent[u]==u)
+        {
+            return u;
+        }
+        return find(parent[u],parent);
     }
 }
