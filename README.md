@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/RohitSirvi898/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/RohitSirvi898/LEETCODE/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/RohitSirvi898/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/RohitSirvi898/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RohitSirvi898/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/RohitSirvi898/LEETCODE/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitSirvi898/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0856-score-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/0856-score-of-parentheses) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RohitSirvi898/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/RohitSirvi898/LEETCODE/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/RohitSirvi898/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/RohitSirvi898/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0210-course-schedule-ii) |
@@ -604,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RohitSirvi898/LEETCODE/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/RohitSirvi898/LEETCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
