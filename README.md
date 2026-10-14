@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RohitSirvi898/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RohitSirvi898/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RohitSirvi898/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/RohitSirvi898/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RohitSirvi898/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1609-even-odd-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RohitSirvi898/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RohitSirvi898/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1791-find-center-of-star-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RohitSirvi898/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
