@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohitSirvi898/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RohitSirvi898/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/RohitSirvi898/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RohitSirvi898/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RohitSirvi898/LEETCODE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1791-find-center-of-star-graph](https://github.com/RohitSirvi898/LEETCODE/tree/master/1791-find-center-of-star-graph) |
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RohitSirvi898/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
