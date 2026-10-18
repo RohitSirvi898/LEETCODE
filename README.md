@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohitSirvi898/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0630-course-schedule-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0630-course-schedule-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RohitSirvi898/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/RohitSirvi898/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RohitSirvi898/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/RohitSirvi898/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
