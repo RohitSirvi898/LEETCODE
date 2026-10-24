@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0630-course-schedule-iii) |
+| [0721-accounts-merge](https://github.com/RohitSirvi898/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/RohitSirvi898/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0630-course-schedule-iii) |
+| [0721-accounts-merge](https://github.com/RohitSirvi898/LEETCODE/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RohitSirvi898/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0721-accounts-merge](https://github.com/RohitSirvi898/LEETCODE/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/RohitSirvi898/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RohitSirvi898/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RohitSirvi898/LEETCODE/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RohitSirvi898/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0721-accounts-merge](https://github.com/RohitSirvi898/LEETCODE/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RohitSirvi898/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RohitSirvi898/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/RohitSirvi898/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RohitSirvi898/LEETCODE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RohitSirvi898/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
@@ -504,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/RohitSirvi898/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RohitSirvi898/LEETCODE/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/RohitSirvi898/LEETCODE/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RohitSirvi898/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RohitSirvi898/LEETCODE/tree/master/0990-satisfiability-of-equality-equations) |
