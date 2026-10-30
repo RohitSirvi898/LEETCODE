@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RohitSirvi898/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RohitSirvi898/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/RohitSirvi898/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitSirvi898/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/RohitSirvi898/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/RohitSirvi898/LEETCODE/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RohitSirvi898/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0494-target-sum) |
@@ -750,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/RohitSirvi898/LEETCODE/tree/master/1584-min-cost-to-connect-all-points) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
