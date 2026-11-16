@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RohitSirvi898/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RohitSirvi898/LEETCODE/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0319-bulb-switcher](https://github.com/RohitSirvi898/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -776,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/RohitSirvi898/LEETCODE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
