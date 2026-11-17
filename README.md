@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitSirvi898/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/RohitSirvi898/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RohitSirvi898/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RohitSirvi898/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RohitSirvi898/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/RohitSirvi898/LEETCODE/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/RohitSirvi898/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RohitSirvi898/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RohitSirvi898/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RohitSirvi898/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/RohitSirvi898/LEETCODE/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RohitSirvi898/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RohitSirvi898/LEETCODE/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
 |  |
 | ------- |
