@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RohitSirvi898/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RohitSirvi898/LEETCODE/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0292-nim-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/RohitSirvi898/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -677,11 +678,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/0292-nim-game) |
 | [0778-swim-in-rising-water](https://github.com/RohitSirvi898/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1406-stone-game-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -795,5 +798,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/RohitSirvi898/LEETCODE/tree/master/0319-bulb-switcher) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
