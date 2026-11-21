@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RohitSirvi898/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RohitSirvi898/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RohitSirvi898/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitSirvi898/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RohitSirvi898/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RohitSirvi898/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RohitSirvi898/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/RohitSirvi898/LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RohitSirvi898/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RohitSirvi898/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RohitSirvi898/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RohitSirvi898/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RohitSirvi898/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RohitSirvi898/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/RohitSirvi898/LEETCODE/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitSirvi898/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RohitSirvi898/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
