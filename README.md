@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/RohitSirvi898/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RohitSirvi898/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/RohitSirvi898/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RohitSirvi898/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1143-longest-common-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/RohitSirvi898/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RohitSirvi898/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RohitSirvi898/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -839,4 +841,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RohitSirvi898/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RohitSirvi898/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
