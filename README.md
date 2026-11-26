@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/RohitSirvi898/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/RohitSirvi898/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RohitSirvi898/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/RohitSirvi898/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RohitSirvi898/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RohitSirvi898/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/RohitSirvi898/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/RohitSirvi898/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/RohitSirvi898/LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/RohitSirvi898/LEETCODE/tree/master/3838-weighted-word-mapping) |
