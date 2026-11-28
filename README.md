@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/RohitSirvi898/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/RohitSirvi898/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RohitSirvi898/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/RohitSirvi898/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/RohitSirvi898/LEETCODE/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/RohitSirvi898/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RohitSirvi898/LEETCODE/tree/master/0125-valid-palindrome) |
